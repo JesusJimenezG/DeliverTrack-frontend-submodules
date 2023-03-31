@@ -1,3 +1,6 @@
 [submodule "admin-app"]
 	path = admin-app
 	url = https://github.com/JesusJimenezG/DeliverTrack-admin-app.git
+[submodule "users-app"]
+	path = users-app
+	url = ./users-app
